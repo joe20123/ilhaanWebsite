@@ -449,7 +449,7 @@ ul.sub-menu {
 }
 
 .home-banner-one .banner-content {
-    background-image: url(../images/bg/banner.jpg);
+    background-image: url(../images/bg/ilhaan_profile.jpeg);
     background-color: #e7e7e7;
     position: relative;
     background-position: center;
@@ -466,6 +466,7 @@ ul.sub-menu {
 .banner-info h1 {
     font-size: 48px;
     font-family: 'rookies-showtimesregular';
+    color: rgb(128, 106, 34)
 }
 
 .banner-info h2 {
@@ -473,12 +474,16 @@ ul.sub-menu {
     margin-top: 0;
     line-height: 92px;
     margin-left: -8px;
+    color: rgb(128, 106, 34)
+
 }
 
 .banner-info h3 {
     font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 26px;
+    color: rgb(177, 147, 48)
+
 }
 
 /* Home Two  */
@@ -767,6 +772,9 @@ ul.sub-menu {
     margin-bottom: 20px;
 }
 
+#experienceDetail {
+    clear: both;
+}
 
 /* Education Section */
 
