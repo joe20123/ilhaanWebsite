@@ -158,6 +158,11 @@ a:focus, button:focus, .btn:focus,
     background-color: #2d3038;
 }
 
+#navigation .navbar-nav>li .fa {
+    color: rgb(246, 198, 37);
+}
+
+
 #navigation.menu-one .navbar-nav>li {
     float: none;
     height: 9.1%;
@@ -331,7 +336,7 @@ a:focus, button:focus, .btn:focus,
 
 #navigation .navbar:before {
     right:0;
-    background-color: #e49226;
+    background-color: rgb(128, 106, 34);
     /* background-color: #2d3038; */
     left: -100%;
 }
@@ -344,7 +349,7 @@ a:focus, button:focus, .btn:focus,
 }
 
 .logo {
-    background-color: #e49226;
+    background-color: rgb(128, 106, 34);
     /* background-color: #2d3038; */
     height: 76px;
     padding: 9px 25px 10px 15px;
@@ -817,7 +822,7 @@ ul.sub-menu {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #666860;
+    background-color: #242522;
     color: #fff;
     -webkit-transition: all 500ms;
     -moz-transition: all 500ms;
@@ -844,6 +849,10 @@ ul.sub-menu {
     color: #fff;
     margin-top: 5px;
     margin-bottom: 0;
+}
+
+.portfolio-info p {
+    color: rgb(226, 187, 58);
 }
 
 .portfolio-info a {
