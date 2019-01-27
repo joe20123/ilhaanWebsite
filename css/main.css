@@ -231,43 +231,43 @@ a:focus, button:focus, .btn:focus,
 }
 
 #navigation .navbar-nav>li:nth-child(1) {
-    background-color:  #666860;
+    background-color:  #020914;
 }
 
 #navigation .navbar-nav>li:nth-child(2) {
-    background-color: #8c8a78; 
+    background-color: #171f26; 
 }
 
 #navigation .navbar-nav>li:nth-child(3) {
-    background-color: #465450;
+    background-color: #273338;
 }
 
 #navigation .navbar-nav>li:nth-child(4) {
-    background-color: #452223;
+    background-color: #39484b;
 }
 
 #navigation .navbar-nav>li:nth-child(5) {
-    background-color: #898983;
+    background-color: #4d5e5d;
 }
 
 #navigation .navbar-nav>li:nth-child(6) {
-    background-color: #8d7073;
+    background-color: #647470;
 }
 
 #navigation .navbar-nav>li:nth-child(7) {
-    background-color: #6a7685;
+    background-color: #7d8b83;
 }
 
 #navigation .navbar-nav>li:nth-child(8) {
-    background-color: #3c70b4;
+    background-color: #98a297;
 }
 
 #navigation .navbar-nav>li:nth-child(9) {
-    background-color: #05ac80;
+    background-color: #b5b9ac;
 }
 
 #navigation .navbar-nav>li:last-child {
-    background-color: #9a6c4e;
+    background-color: #D6D8D0;
 }
 
 #navigation .navbar-nav>li .social {
