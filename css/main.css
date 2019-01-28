@@ -220,14 +220,14 @@ a:focus, button:focus, .btn:focus,
 }
 
 .home-one .logo {
-    height: 65px;
+    height: 64px;
     float: none;
     margin-left: 10px;
     padding: 4px 30px;
 }
 
 .home-one .navbar-nav {
-    margin-top: 65px;
+    margin-top: 64px;
 }
 
 #navigation .navbar-nav>li:nth-child(1) {
